@@ -1,0 +1,8 @@
+obj/
+*.o
+minishell
+*.out
+*.txt
+.vscode
+minishell_tester/
+prog_qui_sleep.c
